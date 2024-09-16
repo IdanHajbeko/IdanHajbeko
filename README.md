@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm mostly a self-taught programmer, <br>cybersecurity enthusiast, <br>software engineer. <br>I studied cybersecurity for two years at university<br>and now starting to learn software engineering there as well. <br>Additionally, I'm learning software engineering in high school.<br><br>Computer science fascinates me, and I'm always searching for new things to learn.<br><br>Right now, I'm not working on a big project,<br>but I am in the process of submitting a zero-day vulnerability I found on Samsung phones.
 
 
