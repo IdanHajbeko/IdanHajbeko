@@ -1,5 +1,5 @@
 # About Me:
-I'm mostly a self-taught programmer, <br>cybersecurity enthusiast, <br>and a computer freak who love to destroy and create stuff. <br>I studied cybersecurity with two courses at Tel Aviv university<br>and now starting to learn computer science degree at the open university of Israel. <br>Additionally, I'm learning software engineering in high school.<br><br>Computer science fascinates me, and I'm always searching for new things to learn.<br><br>
+I'm mostly a self-taught programmer, <br>cybersecurity enthusiast, <br>and a computer freak who love to destroy and create stuff. <br>I studied cybersecurity on two courses at Tel Aviv university<br>and now starting a computer science degree at the open university of Israel. <br>Additionally, I'm learning software engineering in high school.<br><br>Computer science fascinates me, and I'm always searching for new things to learn.<br><br>
 
 
 ## 🌐 Socials:
